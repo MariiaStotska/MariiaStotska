@@ -1,26 +1,26 @@
-### Hey, I'm Mariia!
+### Hey, I'm Mariia🇺🇦
 
+```python
 class Me:
-  languages: [
+  languages = [
     '🇺🇸 English',
     '🇷🇺 Russian',
     '🇺🇦 Ukrainian',
     '🐍 Python',
     '🕸 SQL',
   ]
-  verticals: [
+  verticals = [
     '🌍 Selenium',
     '🧠 Postman',
     '☁️ Azure',
     '📊 Allure',
   ]
-  experience: {
+  experience = {
     'QA Automation': '2+ years',
     'QA Manual': '3+ years',
   }
   
   def __str__(self):
-    return "Mariia Stotska: QA Automation Engineer>"
-
+    return "Mariia Stotska: QA Automation Engineer"
 
                                           Check out my test automation project ⬇️
