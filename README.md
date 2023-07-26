@@ -1,16 +1,26 @@
-### Hi there 👋
+### Hey, I'm Mariia!
 
-<!--
-**MariiaStotska/MariiaStotska** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+class Me:
+  languages: [
+    '🇺🇸 English',
+    '🇷🇺 Russian',
+    '🇺🇦 Ukrainian',
+    '🐍 Python',
+    '🕸 SQL',
+  ]
+  verticals: [
+    '🌍 Selenium',
+    '🧠 Postman',
+    '☁️ Azure',
+    '📊 Allure',
+  ]
+  experience: {
+    'QA Automation': '2+ years',
+    'QA Manual': '3+ years',
+  }
+  
+  def __str__(self):
+    return "Mariia Stotska: QA Automation Engineer>"
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+                                          Check out my test automation project ⬇️
